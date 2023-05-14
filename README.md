@@ -2,9 +2,9 @@
 For experiment purposes.
 
 # install the ff libriaries below
-# pip install pandas PyQt5 mysql-connector-python
+pip install pandas PyQt5 mysql-connector-python
 
-# make sure you have to create the table with the ff mysql code
+# Make sure you have to create the table with the ff mysql code
 '''
 CREATE TABLE IF NOT EXISTS population (
   id int NOT NULL AUTO_INCREMENT,
